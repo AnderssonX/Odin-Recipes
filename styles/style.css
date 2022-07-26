@@ -1,9 +1,12 @@
 body {
     background-color: #ECEFF1;
+    
+    display: flex;
+    justify-content: center;
 }
-div {width: 50% ;
-    margin-left: 25%;}
-
+div {
+    
+}
 h1 {
     font-size: 38px;
     color: #546E7A;
