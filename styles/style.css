@@ -1,16 +1,18 @@
 body {
     background-color: #ECEFF1;
-display: flex;
+    display: flex;
     justify-content: center;
-    
+
 
 }
+
 div {
 
-width: 50%;
+    width: 50%;
 
-    
+
 }
+
 h1 {
     font-size: 38px;
     color: #546E7A;
@@ -21,6 +23,7 @@ h2 {
     color: #00796B;
     text-decoration-line: underline;
 }
+
 p {
     color: #37474F
 }
@@ -34,31 +37,32 @@ a {
     color: #00796B;
     text-decoration: none;
 }
+
 a:hover {
     color: #00796B;
     text-decoration: underline;
-    
+
 }
 
 ul {
     list-style-type: none;
     padding: 0px;
     color: #37474F;
-    
+
 }
 
 li {
     color: #37474F;
     margin-bottom: 12px;
-    
+
 }
 
- ul.ingredients li:nth-child(2n){
-color: #78909C;
- }
- ol {
+ul.ingredients li:nth-child(2n) {
+    color: #78909C;
+}
+
+ol {
     color: #37474F;
-        list-style-type: none;
-        padding: 0px;        
-    }
-   
+    list-style-type: none;
+    padding: 0px;
+}
